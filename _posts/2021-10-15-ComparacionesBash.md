@@ -1,6 +1,7 @@
 ---
-title: Comparaciones en Bash
-author: LLamasDev
+title: 'Comparaciones en Bash'
+permalink: '/20211015/ComparacionesEnBash/'
+author: 'LLamasDev'
 date: 2021-10-15 12:00:00 +0800
 categories: [GNU/Linux, Bash]
 tags: [Bash]
