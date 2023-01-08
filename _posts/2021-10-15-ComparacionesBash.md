@@ -10,6 +10,7 @@ toc: true
 ---
 
 ![](./../assets/img/BashLogo.png)
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/img/BashLogo.png){: .align-center}
 
 En bash hay diferentes comparadores según lo que queramos comparar:
 
