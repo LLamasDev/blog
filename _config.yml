@@ -19,8 +19,8 @@ locale                   : 'es-ES'
 title                    : 'LLamasDev'
 title_separator          : '-'
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : 'Your Name'
-description              : 'An amazing website.'
+name                     : 'José Manuel LLamas Muñoz'
+description              : 'Programador / Administrador de sistemas'
 url                      : # the base hostname & protocol for your site e.g. 'https://mmistakes.github.io'
 baseurl                  : '/Blog/' # the subpath of your site, e.g. '/blog'
 repository               : # GitHub username/repo-name e.g. 'mmistakes/minimal-mistakes'
@@ -81,7 +81,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : LLamasDev
 facebook:
   username               :
   app_id                 :
