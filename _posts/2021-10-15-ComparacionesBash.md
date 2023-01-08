@@ -6,9 +6,10 @@ categories: [GNU/Linux, Bash]
 tags: [Bash]
 math: true
 mermaid: true
+toc: true
 ---
 
-![](https://raw.githubusercontent.com/LLamasDev/Blog/master/assets/img/bash-logo.png)
+![](./../assets/img/BashLogo.png)
 
 En bash hay diferentes comparadores según lo que queramos comparar:
 
