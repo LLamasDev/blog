@@ -3,4 +3,4 @@ main:
   - title: 'Post'
     url: '_posts'
   - title: 'Sobre mí'
-    url: 'https://github.com/LLamasDev/Blog/blob/master/_pages/about.md'
+    url: './master/_pages/about.md'
