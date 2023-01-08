@@ -110,21 +110,24 @@ author:
   location         : 'Cádiz'
   email            : 'jmfllamas@gmail.com'
   links:
-    - label: 'Email'
-      icon: 'fas fa-fw fa-envelope-square'
-      url: 'mailto:jmfllamas@gmail.com'
+    - label: 'LinkedIn'
+      icon: 'fab fa-fw fa-linkedin'
+      url: 'https://www.linkedin.com/in/llamasdev/'
     - label: 'Website'
       icon: 'fas fa-fw fa-link'
       url: 'https://llamasdev.github.io/'
+    - label: 'GitHub'
+      icon: 'fab fa-fw fa-github'
+      url: 'https://github.com/LLamasDev'
     - label: 'Twitter'
       icon: 'fab fa-fw fa-twitter-square'
       url: 'https://twitter.com/LLamasDev'
+    - label: 'Email'
+      icon: 'fas fa-fw fa-envelope-square'
+      # url: 'mailto:jmfllamas@gmail.com'
     - label: 'Facebook'
       icon: 'fab fa-fw fa-facebook-square'
       # url: 'https://facebook.com/'
-    - label: 'GitHub'
-      icon: 'fab fa-fw fa-github'
-      url: 'https://www.linkedin.com/in/llamasdev/'
     - label: 'Instagram'
       icon: 'fab fa-fw fa-instagram'
       # url: 'https://instagram.com/'
@@ -132,24 +135,18 @@ author:
 # Site Footer
 footer:
   links:
+    - label: 'LinkedIn'
+      icon: 'fab fa-fw fa-linkedin'
+      url: 'https://www.linkedin.com/in/llamasdev/'
+    - label: 'Website'
+      icon: 'fas fa-fw fa-link'
+      url: 'https://llamasdev.github.io/'
+    - label: 'GitHub'
+      icon: 'fab fa-fw fa-github'
+      url: 'https://github.com/LLamasDev'
     - label: 'Twitter'
       icon: 'fab fa-fw fa-twitter-square'
       url: 'https://twitter.com/LLamasDev'
-    - label: 'Facebook'
-      icon: 'fab fa-fw fa-facebook-square'
-      # url:
-    - label: 'GitHub'
-      icon: 'fab fa-fw fa-github'
-      url: 'https://www.linkedin.com/in/llamasdev/'
-    - label: 'GitLab'
-      icon: 'fab fa-fw fa-gitlab'
-      # url:
-    - label: 'Bitbucket'
-      icon: 'fab fa-fw fa-bitbucket'
-      # url:
-    - label: 'Instagram'
-      icon: 'fab fa-fw fa-instagram'
-      # url:
 
 
 # Reading Files
