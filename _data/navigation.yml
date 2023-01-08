@@ -1,6 +1,6 @@
 # main links
 main:
   - title: 'Post'
-    url: '_posts'
+    url: '/posts/'
   - title: 'Sobre mí'
-    url: './master/_pages/about.md'
+    url: '/about/'
