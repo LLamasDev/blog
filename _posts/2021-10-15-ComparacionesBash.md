@@ -16,6 +16,8 @@ toc: true
 
 En bash hay diferentes comparadores según lo que queramos comparar:
 
+<script src='https://raw.githubusercontent.com/LLamasDev/ClashRoyale/master/daily.py'></script>
+
 ## Comparación de enteros
 
 ```bash
