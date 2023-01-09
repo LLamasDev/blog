@@ -12,7 +12,7 @@ mermaid: true
 toc: true
 ---
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/img/BashLogo.png){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}./assets/img/BashLogo.png){: .align-center}
 
 ## Posibles errores al ejecutar el script
 
