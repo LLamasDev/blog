@@ -1,6 +1,6 @@
 ---
-title: 'Script'
-permalink: '/20220101/Script/'
+title: 'Ejecutar script'
+permalink: '/20220101/EjecutarSH/'
 author: 'LLamasDev'
 date: 2022-01-01 8:00:00 +0800
 last_modified_at: 2022-01-01 8:00:00 +0800
@@ -13,6 +13,12 @@ toc: true
 ---
 
 ![image-center]({{ site.url }}{{ site.baseurl }}./assets/img/BashLogo.png){: .align-center}
+
+## Forma clásica
+
+```bash
+./ALGO.sh
+```
 
 ## Problemas al ejecutar un script
 

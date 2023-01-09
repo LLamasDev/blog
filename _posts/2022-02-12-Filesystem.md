@@ -41,13 +41,13 @@ du -sh CARPETA
 ## Ordenar por tamaño
 
 Mostrar el tamaño de los archivos que más ocupen y ordenados:  
-`-h / --human-readable`: Imprime los datos como: 1K 234M 2G  
+`-h / --human-readable`: Imprime los datos como: 1K ó 234M ó 2G.  
 `-s`: No muestra los subdirectorios.
 ```bash
 du -hs * | sort -n
 ```
 
-`-k / --block-size=1K`
+`-k / --block-size=1K`:
 ```bash
 du -ks * | sort -n
 ```
