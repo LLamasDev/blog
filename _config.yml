@@ -18,7 +18,7 @@ minimal_mistakes_skin    : 'dark' # 'air', 'aqua', 'contrast', 'dark', 'dirt', '
 locale                   : 'es-ES'
 title                    : 'LLamasDev'
 title_separator          : '-'
-subtitle                 : 'Programador / Administrador de sistemas' # site tagline that appears below site title in masthead
+subtitle                 : 'Blog personal' # site tagline that appears below site title in masthead
 name                     : &name 'José Manuel LLamas Muñoz'
 description              : &description 'Programador / Administrador de sistemas'
 url                      : 'https://llamasdev.github.io' # the base hostname & protocol for your site e.g. 'https://mmistakes.github.io'
