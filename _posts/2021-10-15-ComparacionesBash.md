@@ -2,8 +2,9 @@
 title: 'Comparaciones en Bash'
 permalink: '/20211015/ComparacionesEnBash/'
 author: 'LLamasDev'
-date: 2021-10-15 12:00:00 +0800
-categories: [GNU/Linux, Bash]
+date: 2021-10-15 8:00:00 +0800
+last_modified_at: 2022-10-15 8:00:00 +0800
+categories: [GNU/Linux]
 tags: [Bash]
 math: true
 mermaid: true
