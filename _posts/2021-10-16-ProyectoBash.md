@@ -135,20 +135,6 @@ screen -S $primer_ag -d -m bash -c "python3 $ruta"
 `screen -S $primer_ag` Creamos la ventana con el nombre del argumento dado.  
 `-d -m bash -c "python3 $ruta"` Despues de la ventana ejecutamos en Python 3 el archivo deseado obtenido en la ruta.  
 
-## ¿Posibles mejoras?
-
-Controlar si el fichero no existe, pero siempre indicaremos los ficheros sabiendo que ya existen.  
-Si quieres controlar que algo siempre esté arrancado y controlar por si se reinicia el servidor (ya que lo tenemos todo localmente y no por VPS), lo haríamos de la siguiente forma:  
-En el crontab ponemos el arranque en el reinicio, en caso de bash:
-```bash
-@reboot         llamas  /bin/bash /bot/admin/start.sh ALGO
-```
-
-En caso de Python:
-```bash
-@reboot         llamas  /usr/bin/python3 /bot/ALGO.py
-```
-
 ## Parar proceso
 
 ```bash
@@ -202,4 +188,18 @@ Lo nuevo sería:
 Ya solo queda cerrar el `screen` de la siguiente manera:
 ```bash
 screen -XS $screen_id quit
+```
+
+## ¿Posibles mejoras?
+
+Controlar si el fichero no existe, pero siempre indicaremos los ficheros sabiendo que ya existen.  
+Si quieres controlar que algo siempre esté arrancado y controlar por si se reinicia el servidor (ya que lo tenemos todo localmente y no por VPS), lo haríamos de la siguiente forma:  
+En el crontab ponemos el arranque en el reinicio, en caso de bash:
+```bash
+@reboot         llamas  /bin/bash /bot/admin/start.sh ALGO
+```
+
+En caso de Python:
+```bash
+@reboot         llamas  /usr/bin/python3 /bot/ALGO.py
 ```

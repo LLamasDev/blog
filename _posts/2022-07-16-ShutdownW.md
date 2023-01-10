@@ -14,7 +14,7 @@ toc: true
 
 ![image-center]({{ site.url }}{{ site.baseurl }}./assets/img/TuxW.png){: .align-center}
 
-## Apagar el PC en Windows
+## Parámetros
 
 `-i`: Muestra la interfaz gráfica.  
 `-l`: Cerrar sesión (No puede se utilizado con la opción -m).  

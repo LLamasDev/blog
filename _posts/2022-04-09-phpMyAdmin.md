@@ -34,6 +34,7 @@ systemctl restart apache2
 
 ## Problemas con phpMyAdmin
 
+Si la web no carga, veamos si no esta añadida en `apache`:
 ```bash
 vi /etc/apache2/apache2.conf
 

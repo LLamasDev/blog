@@ -26,7 +26,7 @@ Una vez el comando anterior ha descargado la lista de software disponible y la v
 apt-get upgrade
 ```
 
-## Podemos usar ambos a la vez:
+## Podemos usar ambos a la vez
 
 ```bash
 apt-get update && apt-get upgrade
