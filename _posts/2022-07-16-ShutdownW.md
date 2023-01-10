@@ -1,5 +1,5 @@
 ---
-title: 'Shutdown para W10'
+title: 'Shutdown para Windows'
 permalink: '/20220716/ShutdownW/'
 author: 'LLamasDev'
 date: 2022-07-16 8:00:00 +0800
