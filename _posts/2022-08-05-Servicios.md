@@ -1,5 +1,5 @@
 ---
-title: 'Servicios o Demonios'
+title: 'Servicios o demonios'
 permalink: '/20220805/Servicios/'
 author: 'LLamasDev'
 date: 2022-08-05 8:00:00 +0800
@@ -20,7 +20,7 @@ toc: true
 service --status-all
 ```
 
-### Servicios
+# Servicios
 
 ## Estado
 
@@ -40,7 +40,7 @@ service ALGO start
 service ALGO stop
 ```
 
-### Rutas
+# Rutas
 
 ## Estado
 

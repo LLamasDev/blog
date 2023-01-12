@@ -14,6 +14,23 @@ toc: true
 
 ![image-center]({{ site.url }}{{ site.baseurl }}./assets/img/GNULinux.png){: .align-center}
 
+## TAR
+
+Comprimir:
+```bash
+tar -cvf archivo.tar ficheros
+```
+
+Descomprimir:
+```bash
+tar -xvf archivo.tar
+```
+
+Para ver el contenido:
+```bash
+tar -tzf archivo.tar
+```
+
 ## RAR
 
 Comprimir:
@@ -69,23 +86,6 @@ Para buscar el contenido:
 `-l`: Nombre del fichero.
 ```bash
 zgrep -ALGO ALGO.gz
-```
-
-## TAR
-
-Comprimir:
-```bash
-tar -cvf archivo.tar ficheros
-```
-
-Descomprimir:
-```bash
-tar -xvf archivo.tar
-```
-
-Para ver el contenido:
-```bash
-tar -tzf archivo.tar
 ```
 
 ## TAR.BZ2
