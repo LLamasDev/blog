@@ -1,9 +1,9 @@
 ---
 title: 'Activación de Windows 10'
-permalink: '/20220916/ActivacionW/'
+permalink: '/20220917/ActivacionW/'
 author: 'LLamasDev'
-date: 2022-09-16 8:00:00 +0800
-last_modified_at: 2022-09-16 8:00:00 +0800
+date: 2022-09-17 8:00:00 +0800
+last_modified_at: 2022-09-17 8:00:00 +0800
 show_date: true
 categories: [Windows]
 tags: [Activacion]

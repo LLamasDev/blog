@@ -1,9 +1,9 @@
 ---
 title: 'Comprimir'
-permalink: '/20220826/Comprimir/'
+permalink: '/20220827/Comprimir/'
 author: 'LLamasDev'
-date: 2022-08-26 8:00:00 +0800
-last_modified_at: 2022-08-26 8:00:00 +0800
+date: 2022-08-27 8:00:00 +0800
+last_modified_at: 2022-08-27 8:00:00 +0800
 show_date: true
 categories: [GNU/Linux]
 tags: [Comandos]

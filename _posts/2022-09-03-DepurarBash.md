@@ -1,9 +1,9 @@
 ---
 title: 'Depurar en Bash'
-permalink: '/20220902/DepurarBash/'
+permalink: '/20220903/DepurarBash/'
 author: 'LLamasDev'
-date: 2022-09-02 8:00:00 +0800
-last_modified_at: 2022-09-02 8:00:00 +0800
+date: 2022-09-03 8:00:00 +0800
+last_modified_at: 2022-09-03 8:00:00 +0800
 show_date: true
 categories: [GNU/Linux]
 tags: [Bash]

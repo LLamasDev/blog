@@ -1,9 +1,9 @@
 ---
 title: 'Rsync'
-permalink: '/20220930/Rsync/'
+permalink: '/20221001/Rsync/'
 author: 'LLamasDev'
-date: 2022-09-30 8:00:00 +0800
-last_modified_at: 2022-09-30 8:00:00 +0800
+date: 2022-10-01 8:00:00 +0800
+last_modified_at: 2022-10-01 8:00:00 +0800
 show_date: true
 categories: [GNU/Linux]
 tags: [Comandos]
