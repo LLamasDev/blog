@@ -6,13 +6,13 @@ date: 2022-09-17 8:00:00 +0800
 last_modified_at: 2022-09-17 8:00:00 +0800
 show_date: true
 categories: [Windows]
-tags: [Activacion]
+tags: [Seguridad]
 math: true
 mermaid: true
 toc: true
 ---
 
-![image-center]({{ site.url }}{{ site.baseurl }}./assets/img/TuxW.png){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}./assets/img/Cybersecurity.png){: .align-center}
 
 ## ¿Cómo se hace?
 
