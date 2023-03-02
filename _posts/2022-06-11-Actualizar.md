@@ -31,3 +31,20 @@ apt-get upgrade
 ```bash
 apt-get update && apt-get upgrade
 ```
+
+## Error
+
+[Wiki Debian](https://wiki.debian.org/SourcesList)  
+Modificar el `sources.list`:
+```bash
+/etc/apt/sources.list
+```
+
+Ejemplo:
+```bash
+deb http://ftp.es.debian.org/debian/ stable main contrib non-free
+deb-src http://ftp.es.debian.org/debian/ stable main contrib non-free
+
+deb http://ftp.es.debian.org/debian/ stable-updates main contrib non-free
+deb-src http://ftp.es.debian.org/debian/ stable-updates main contrib non-free
+```
