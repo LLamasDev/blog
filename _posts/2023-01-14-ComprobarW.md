@@ -31,13 +31,17 @@ sfc /scannow
 ## Salidas
 
 - Protección de recursos de Windows no encontró ninguna infracción de integridad.
+
 Esto quiere decir que no hay ningún archivo de sistema que esté dañado o que falte.
 
 - Protección de recursos de Windows no pudo realizar la operación solicitada.
+
 Para resolver este problema, vuelva a ejecutar el examen de Comprobador de archivos de sistema en modo seguro y compruebe que las carpetas PendingDeletes y PendingRenames existen dentro de %WinDir%\WinSxS\Temp.
 
 - Protección de recursos de Windows encontró archivos dañados y los reparó correctamente. Los detalles están incluidos en CBS.Log %WinDir%\Logs\CBS\CBS.log.
+
 Para obtener información detallada sobre el análisis de archivos de sistema y su restauración, diríjase a Cómo ver los detalles del proceso de Comprobador de archivos de sistema.
 
 - Protección de recursos de Windows encontró archivos dañados pero no pudo corregir algunos de ellos. Los detalles están incluidos en CBS.Log %WinDir%\Logs\CBS\CBS.log.
+
 Para reparar los archivos dañados de manera manual, consulta los detalles del proceso de Comprobador de archivos de sistema para encontrar el archivo dañado y luego remplace el archivo dañado con una copia del archivo que sepa que no esté dañada.
