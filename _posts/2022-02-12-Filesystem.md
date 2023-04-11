@@ -55,13 +55,15 @@ du -ks * | sort -n
 ## Borrar
 
 Para buscar un archivo y borrar los de más de una semana:  
+`-type f`: Fichero.  
+`-type d`: Carpeta.  
 `-iname`: Buscar algo y no distingue mayúsculas de minúsculas.  
 `-mtime`: Tiempo a buscar o desde cuando.  
 `-exec`: Ejecutar lo siguiente.
 ```bash
-find / -iname 'ALGO*' -mtime +7 -exec ls -lrt {} \;
+find RUTA(si no se pone, es la actual) -type f -iname 'ALGO*' -mtime +X -exec ls -lrt {} \;
 
-find / -iname 'ALGO*' -mtime +7 -exec rm -fv {} \;
+find RUTA(si no se pone, es la actual) -type f -iname 'ALGO*' -mtime +X -exec rm -fv {} \;
 ```
 
 ## Vaciar
