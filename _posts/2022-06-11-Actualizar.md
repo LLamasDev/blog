@@ -76,17 +76,18 @@ deb-src http://repo.mysql.com/apt/debian/ buster mysql-8.0
 ```
 
 Una vez modificado `sources.list`:
-```
+```bash
 apt update
 ```
 
-Si te da el siguiente error:
-```tex
+
+Otro posible error es si te da lo siguiente:
+```text
 W: GPG error: http://repo.mysql.com/apt/debian buster InRelease: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 467B942D3A79BD29
 ```
 
 Solución:
-```
+```bash
 apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 467B942D3A79BD29
 
 apt update

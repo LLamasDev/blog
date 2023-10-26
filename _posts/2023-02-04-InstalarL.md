@@ -1,6 +1,6 @@
 ---
-title: 'Instalación para Unix'
-permalink: '/20230204/InstalarU/'
+title: 'Instalación para GNU/Linux'
+permalink: '/20230204/InstalarL/'
 author: 'LLamasDev'
 date: 2023-02-04 8:00:00 +0800
 last_modified_at: 2023-02-04 8:00:00 +0800

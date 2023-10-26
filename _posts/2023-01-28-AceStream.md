@@ -16,8 +16,7 @@ toc: true
 
 ## Instalar
 
-```
-apt-get update
+```bash
 apt-get install snapd
 
 snap install acestreamplayer
