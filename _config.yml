@@ -20,7 +20,7 @@ title                    : 'LLamasDev'
 title_separator          : '-'
 subtitle                 : 'Blog personal' # site tagline that appears below site title in masthead
 name                     : &name 'José Manuel LLamas Muñoz'
-description              : &description 'Programador / Administrador de sistemas'
+description              : &description 'Programador / DevOps / Middleware'
 url                      : 'https://llamasdev.github.io' # the base hostname & protocol for your site e.g. 'https://mmistakes.github.io'
 baseurl                  : '/Blog/' # the subpath of your site, e.g. '/blog'
 repository               : # GitHub username/repo-name e.g. 'mmistakes/minimal-mistakes'
