@@ -14,7 +14,7 @@ toc: true
 
 ![image-center]({{ site.url }}{{ site.baseurl }}./assets/img/Cybersecurity.png){: .align-center}
 
-## ¿Cómo se hace?
+## ¿Cómo hacerlo?
 
 Como administrador y si kms.digiboy.ir no funciona, otra opción es kms.msguides.com:
 ```console
