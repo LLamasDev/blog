@@ -106,7 +106,7 @@ analytics:
 author:
   name             : 'José Manuel LLamas Muñoz'
   avatar           : './assets/img/LLamasDev.png' # path of avatar image, e.g. '/assets/images/bio-photo.jpg'
-  bio              : 'Programador / Administrador de sistemas'
+  bio              : 'Programador / DevOps / Middleware'
   location         : 'Cádiz'
   email            : 'jmfllamas@gmail.com'
   links:
