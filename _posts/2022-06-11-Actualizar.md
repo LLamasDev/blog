@@ -40,7 +40,7 @@ Modificar el `sources.list`:
 /etc/apt/sources.list
 ```
 
-Ejemplo:
+Ejemplo Debian:
 ```bash
 # Repositorios oficiales de Debian en español
 deb http://ftp.es.debian.org/debian/ buster main contrib non-free
@@ -73,6 +73,24 @@ deb http://repo.mysql.com/apt/debian/ buster mysql-tools
 
 # Para activar el soporte de origen (fuentes) de MySQL, descomenta la siguiente línea
 deb-src http://repo.mysql.com/apt/debian/ buster mysql-8.0
+```
+
+Ejemplo Ubuntu:
+```bash
+deb http://archive.ubuntu.com/ubuntu/ focal main restricted universe multiverse
+deb-src http://archive.ubuntu.com/ubuntu/ focal main restricted universe multiverse
+
+deb http://archive.ubuntu.com/ubuntu/ focal-updates main restricted universe multiverse
+deb-src http://archive.ubuntu.com/ubuntu/ focal-updates main restricted universe multiverse
+
+deb http://archive.ubuntu.com/ubuntu/ focal-security main restricted universe multiverse
+deb-src http://archive.ubuntu.com/ubuntu/ focal-security main restricted universe multiverse
+
+deb http://archive.ubuntu.com/ubuntu/ focal-backports main restricted universe multiverse
+deb-src http://archive.ubuntu.com/ubuntu/ focal-backports main restricted universe multiverse
+
+deb http://archive.canonical.com/ubuntu focal partner
+deb-src http://archive.canonical.com/ubuntu focal partner
 ```
 
 Una vez modificado `sources.list`:
